@@ -86,7 +86,7 @@
 
 .bottom-section {
   position: absolute;
-  top: calc(88% + clamp(8px, 2vw, 12px));
+  top: calc(80% + clamp(8px, 2vw, 12px));
   left: 50%;
   transform: translateX(-50%);
   display: flex;
